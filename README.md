@@ -5,7 +5,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)
 
 This repository contains an interactive Streamlit chatbot powered by Google's Gemini-1.5-Flash model, designed to provide information about MaitriAI's services. It leverages Retrieval Augmented Generation (RAG) to answer questions based on a provided document (`MaitriDoc.pdf`) and features both text-based and voice-enabled interaction (Speech-to-Text and Text-to-Speech).
-
+### Demo: 
+https://youtu.be/6NEOp8Du240?si=bgduObL-vjq9a3i5
 ## ✨ Features
 
 *   **Intelligent Q&A:** Answers questions about MaitriAI's services using a RAG architecture with `MaitriDoc.pdf` as the knowledge base.
