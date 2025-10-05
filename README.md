@@ -39,7 +39,7 @@ Follow these instructions to set up and run the MaitriAI Chatbot locally.
 ### Prerequisites
 
 *   Python 3.8+
-*   `pip` (Python package installer)
+*   `pip` (Python package manager)
 *   A Google API Key with access to Gemini models.
 
 ### 1. Clone the Repository
