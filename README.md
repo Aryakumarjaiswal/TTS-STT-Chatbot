@@ -1,5 +1,5 @@
 # TTS-STT-Chatbot
-# 🗣️ MaitriAI Chatbot (RAG with Voice Input/Output)
+# 🗣️ Hotel Management Chatbot (RAG with Voice Input/Output)
 
 
 
