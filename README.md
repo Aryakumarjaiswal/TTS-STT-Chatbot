@@ -1,8 +1,7 @@
 # TTS-STT-Chatbot
 # 🗣️ MaitriAI Chatbot (RAG with Voice Input/Output)
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://[YOUR_STREAMLIT_APP_URL_IF_DEPLOYED])
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)
+
 
 This repository contains an interactive Streamlit chatbot powered by Google's Gemini-1.5-Flash model, designed to provide information about MaitriAI's services. It leverages Retrieval Augmented Generation (RAG) to answer questions based on a provided document (`MaitriDoc.pdf`) and features both text-based and voice-enabled interaction (Speech-to-Text and Text-to-Speech).
 ### Demo: 
