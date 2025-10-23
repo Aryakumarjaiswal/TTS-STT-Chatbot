@@ -1,5 +1,4 @@
-# TTS-STT-Chatbot
-# 🗣️ Hotel Management Chatbot (RAG with Voice Input/Output)
+# TTS-STT Chatbot
 
 
 
